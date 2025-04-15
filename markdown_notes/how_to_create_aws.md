@@ -26,6 +26,8 @@ Creating an AWS Free Tier account allows you to explore and utilize various AWS 
 
 ### **Step 4: Enter Contact Information**
 
+///added comment
+
 - **Account Type**: Select "Personal" for individual use or "Professional" for business purposes.
 - **Full Name**: Enter your full legal name.
 - **Phone Number**: Provide a valid phone number for verification purposes.
